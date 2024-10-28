@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Error = () => {
+const ErrorPage = () => {
     return (
         <div>
             <h1 style={{color: 'red'}}>
@@ -10,4 +10,4 @@ const Error = () => {
     );
 };
 
-export default Error;
+export default ErrorPage;
